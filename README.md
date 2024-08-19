@@ -1,11 +1,3 @@
-<style>
-    section > section,
-    section > p
-    {
-        width: max-content;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 - 🔭 I’m currently working on [ChatApp](https://github.com/wiktorKycia/ChatApp)
 
@@ -22,7 +14,7 @@
 
 <h3>Languages and Tools:</h3>
 <section style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center; flex-direction:row;'>
-    <section>
+    <section style="width:max-content">
         <p>Languages:</p>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
