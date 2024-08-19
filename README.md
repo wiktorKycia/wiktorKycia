@@ -1,3 +1,11 @@
+<style>
+    section > section,
+    section > p
+    {
+        width: max-content;
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 - 🔭 I’m currently working on [ChatApp](https://github.com/wiktorKycia/ChatApp)
 
