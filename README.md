@@ -13,8 +13,8 @@
 
 
 <h3>Languages and Tools:</h3>
-<section style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center; flex-direction:row;'>
-    <section style="width:max-content">
+<section>
+    <section style="width: 200">
         <p>Languages:</p>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -61,15 +61,9 @@
     </section>
 </section>
 
-<section style='display: flex; justify-content: center; align-items: center; flex-wrap: wrap; flex-direction:row;'>
+<section>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkycia&show_icons=true&locale=en&layout=compact" alt="wiktorkycia" />
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=wiktorkycia&show_icons=true&locale=en" alt="wiktorkycia" />
-    </p>
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorkycia&" alt="wiktorkycia" />
     </p>
 </section>
 
