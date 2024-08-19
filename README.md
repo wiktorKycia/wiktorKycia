@@ -12,7 +12,7 @@
 - 📫 How to reach me **wiktor.kycia@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <section style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center;'>
     <section>
         <p>Languages:</p>
@@ -63,13 +63,13 @@
 
 <section style='display: flex; justify-content: center; align-items: center; flex-wrap: wrap'>
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkycia&show_icons=true&locale=en&layout=compact" alt="wiktorkycia" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkycia&show_icons=true&locale=en&layout=compact" alt="wiktorkycia" />
     </p>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiktorkycia&show_icons=true&locale=en" alt="wiktorkycia" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wiktorkycia&show_icons=true&locale=en" alt="wiktorkycia" />
     </p>
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorkycia&" alt="wiktorkycia" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorkycia&" alt="wiktorkycia" />
     </p>
 </section>
 
