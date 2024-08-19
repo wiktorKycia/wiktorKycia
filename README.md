@@ -13,7 +13,7 @@
 
 
 <h3>Languages and Tools:</h3>
-<section style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center;'>
+<section style='display:flex; flex-wrap: wrap; justify-content: center; align-items: center; flex-direction:row;'>
     <section>
         <p>Languages:</p>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -61,7 +61,7 @@
     </section>
 </section>
 
-<section style='display: flex; justify-content: center; align-items: center; flex-wrap: wrap'>
+<section style='display: flex; justify-content: center; align-items: center; flex-wrap: wrap; flex-direction:row;'>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorkycia&show_icons=true&locale=en&layout=compact" alt="wiktorkycia" />
     </p>
