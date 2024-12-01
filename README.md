@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-- 🔭 I’m currently working on ![Quotes book](https://github.com/wiktorKycia/KsiegaCytatow)
+- 🔭 I’m currently working on a private group project
 
-- 🌱 I’m currently learning **Python and JS web frameworks**
+- 🌱 I’m currently learning **SQL and PHP**
 
-- 👯 I’m looking to collaborate on **Bigger projects**
+- 👯 I’m looking to collaborate on **group projects**
 
-- 🤝 I’m looking for help with **Front-end**
+- 🤝 I’m looking for help with **understanding and implementing AI algorithms**
 
-- 💬 Ask me about **Flask, React**
+- 💬 Ask me about **Python**
 
 
 
