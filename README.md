@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-- 🔭 I’m currently working on [Quotes book](https://github.com/wiktorKycia/KsiegaCytatow)
+- 🔭 I’m currently working on ![Quotes book](https://github.com/wiktorKycia/KsiegaCytatow)
 
 - 🌱 I’m currently learning **Python and JS web frameworks**
 
@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Flask, React**
 
-- 📫 How to reach me **wiktor.kycia@gmail.com**
 
 
 <h3>Languages and Tools:</h3>
