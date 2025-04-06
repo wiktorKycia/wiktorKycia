@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Fan of Python, creating webapps, databases and mergeing all this stuff together</h3>
 
-- 🔭 I’m currently working on **a private group project**
+- 🔭 I’m currently working on **a group project for school**
 
-- 🌱 I’m currently learning **GPT API, Linux**
+- 🌱 I’m currently learning **C# and PHP**
 
 - 👯 I’m looking to collaborate on **Bigger projects**
 
