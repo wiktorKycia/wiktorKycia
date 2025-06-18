@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Fan of Python, creating webapps, databases and mergeing all this stuff together</h3>
 
-- 🔭 I’m currently working on **a group project for school**
+- 🔭 I’m currently working on **improving my python skills**
 
-- 🌱 I’m currently learning **C# and PHP**
+- 🌱 I’m currently learning **Python libraries and tools**
 
 - 👯 I’m looking to collaborate on **Bigger projects**
 
-- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
