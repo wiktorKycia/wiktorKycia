@@ -47,11 +47,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a> 
+  <a title="Armin Ronacher, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flask_logo.svg">
+    <img height="40" alt="Flask logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/128px-Flask_logo.svg.png?20120519143422">
+  </a>
   <a title="Sebastián Ramírez, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:FastAPI_logo.svg">
-    <img height="40" alt="FastAPI logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/64px-FastAPI_logo.svg.png?20240902201856"></a>
+    <img width="128" alt="FastAPI logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/128px-FastAPI_logo.svg.png?20240902201856">
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
