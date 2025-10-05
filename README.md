@@ -50,9 +50,13 @@
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a> 
+  <a title="Sebastián Ramírez, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:FastAPI_logo.svg">
+    <img height="40" alt="FastAPI logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/64px-FastAPI_logo.svg.png?20240902201856"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a title="Daniel Lundin, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Logo_PostgreSQL.png">
+    <img height="40" alt="Logo PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png?20230908055039"></a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
